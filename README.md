@@ -2,4 +2,4 @@
 
 I very rarely do a thing
 
-www.skillzdevelopment.xyz
+www.skillzdev.xyz
